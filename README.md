@@ -28,7 +28,7 @@ This project is a Django-based web application that provides users with nutritio
 2. **Create and activate a virtual environment:**
     ```bash
     pip install virtualenv
-    virtualenv name for your env (my_env) 
+    virtualenv name your env (my_env) 
     cd\my_env\scripts\ ./actiavte
     ```
 

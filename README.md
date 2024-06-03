@@ -22,14 +22,14 @@ This project is a Django-based web application that provides users with nutritio
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/health-app.git
-    cd health-app
+    git clone https://github.com/Abhi19990628/-Food-Calorie-Counter-using-Django-Python-and-an-external-API.-
     ```
 
 2. **Create and activate a virtual environment:**
     ```bash
-    python -m venv venv
-    venv\Scripts\activate
+    pip install virtualenv
+    virtualenv name for your env (my_env) 
+    cd\my_env\scripts\ ./actiavte
     ```
 
 3. **Install the required packages:**
@@ -67,8 +67,6 @@ health-app/
 │ ├── models.py
 │ ├── views.py
 │ ├── urls.py
-│ ├── tests.py
-│ ├── forms.py
 │ └── templates/
 │ ├── home.html
 │ ├── blog.html

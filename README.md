@@ -72,7 +72,7 @@ health-app/
 │ ├── blog.html
 │ ├── contact.html
 │ └── main/
-│ ├── register.html
+| ├── register.html
 │ └── login.html
 ├── health_app/
 │ ├── init.py
